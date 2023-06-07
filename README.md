@@ -73,10 +73,10 @@ background: #23AB9B;
 
 ```
 ## OUTPUT:
-![output](./figma page.png)
-![output](./homepage.png)
-![output](./login page.png)
-![output](./secpage.png)
+![output](figma page.png)
+![output](homepage.png)
+![output](login page.png)
+![output](secpage.png)
 
 ## Result:
 The program to design and develop a web application for event registration is completed successfully.
